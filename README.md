@@ -19,6 +19,8 @@ This script will delete the entire folder for the given show name, add it to cro
 
 This script is ran as the Post-Processor Command within the Tvheadend gui (Configuration > Recording > Digital Video Renderer Profiles)
 
+*Requires ffmpeg and comskip to be installed*
+
 # dircleanup.sh
 
 This script will delete any episode comskip files (files that end in .txt) for episodes that have been deleted via the application
